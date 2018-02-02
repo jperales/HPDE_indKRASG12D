@@ -1,7 +1,5 @@
 ### TITLE : Extract a gene expression signature of oncogenic KRAS in HPDE ductal cells.
 ### AUTHOR : Perales-Paton - Javier (jperales@cnio.es)
-### MOTIVATION : It is well described that KRAS_G12D is almost universal in PDAC.
-### However, there are a lot 
 
 
 library(Biobase)
